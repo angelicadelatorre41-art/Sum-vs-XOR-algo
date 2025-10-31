@@ -1,1 +1,1 @@
-# Sum-vs-XOR-algo
+# Sum-vs-XOR-algo The function counts the number of zero bits in the binary representation of n, because each zero bit can represent two possible values (0 or 1) in a number x that satisfies n + x = n ^ x. The total count of valid x values is therefore 2^(number of zero bits) (or 1 if n is zero)
